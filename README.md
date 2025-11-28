@@ -226,9 +226,6 @@
       851:"Patna",852:"Patna",853:"Patna",854:"Patna",855:"Patna",856:"Patna",857:"Patna",858:"Patna",859:"Patna",
     };
 
-// BG GPO
-    else if (n==560001) city = "BG GPO";
-
     function showCity() {
       const num = document.getElementById("numberInput").value;
       const answer = numberCityMap[num];
