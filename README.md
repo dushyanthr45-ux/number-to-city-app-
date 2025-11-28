@@ -217,7 +217,7 @@
       751:"Bhuvaneshwar",752:"Bhuvaneshwar",753:"Bhuvaneshwar",754:"Bhuvaneshwar",755:"Bhuvaneshwar",756:"Bhuvaneshwar",757:"Bhuvaneshwar",758:"Bhuvaneshwar",759:"Bhuvaneshwar",
       760:"Berahampur",761:"Berahampur",762:"Berahampur",763:"Berahampur",765:"Berahampur",
       766:"Sambalpur",767:"Sambalpur",768:"Sambalpur",769:"Sambalpur",770:"Sambalpur",
-      781:"Guwalt",782:"Guwalt",783:"Guwalt",784:"Guwalt",785:"Guwalt",786:"Dibrugarh",787:"Guwalt",788:"Silchar",789:"Guwalt",790:"Guwalt",
+      781:"Guwhati",782:"Guwhati",783:"Guwhati",784:"Guwhati",785:"Guwhati",786:"Dibrugarh",787:"Guwahati",788:"Silchar",789:"Guwahati",790:"Guwahati",
       791:"Itanagar",792:"Dibrugarh",793:"Shillong",794:"Shillong",795:"Imphal",796:"Aizwal",797:"Dimapur",798:"Dimapur",799:"Agartala",
 
       821:"Patna",822:"Ranchi",823:"Patna",824:"Patna",825:"Ranchi",826:"Ranchi",827:"Ranchi",828:"Ranchi",829:"Ranchi",
