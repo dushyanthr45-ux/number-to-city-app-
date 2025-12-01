@@ -186,7 +186,7 @@
       140:"Chandigarh",147:"Chandigarh",160:"Chandigarh",
 
       // Ludhiana
-      141:"Ludhiana",142:"Ludhiana",151:"Ludhiana",152:"Ludhiana",158:"Ludhiana",
+      141:"Ludhiana",142:"Ludhiana",151:"Ludhiana",152:"Ludhiana",158:"Ludhiana",146:"Ludhiana",
 
       // Jalandhar
       143:"Jalandhar",144:"Jalandhar",146:"Jalandhar",
